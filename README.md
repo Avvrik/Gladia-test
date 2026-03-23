@@ -3,7 +3,7 @@
 ## Step-by-step Demo
 
 ## What it does
-Async speech-to-text: upload audio to Gladia, get an `audio_url`, create a trascription job, and get a transcript with speaker diarization.
+Async speech-to-text: upload audio to Gladia, get an `audio_url`, create a transcription job, and get a transcript with speaker diarization.
 
 ---
 
